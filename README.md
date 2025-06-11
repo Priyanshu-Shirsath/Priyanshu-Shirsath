@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 
-- 📫 How to reach me **priyanshushirsath@gmail.com**
+- 📫 How to reach me **pr3m124@gmail.com**
 
 - ⚡ Fun fact **I love building websites that look clean and feel smooth!**
 
