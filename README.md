@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Chetan+Sapkale!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Priyanshu+Shirsath!;" />
 </h1>
 
 <img src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
@@ -11,7 +11,7 @@ const FrontendDev = {
     name: "Priyanshu Shirsath",
     pronouns: "he" | "him",
     location: ["Dindoli, Surat"],
-    contact: ["pr3m124@gmail.com"],
+    contact: ["sapkalecheta018@gmail.com"],
     collaborations: ["Red & White Multimedia", "Self Learner"],
     workingOn: ["Frontend Development"],
     learning: ["HTML", "CSS", "BOOTSTARP", "Javascript", "React.js"],
@@ -26,6 +26,7 @@ const FrontendDev = {
 <a href="https://github.com/Priyanshu-Shirsath"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/priyanshu-shirsath/?trk=opento_sprofile_topcard">
 <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/ft.chetannn_/?next=%2F&hl=en"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="GitHub"/></a>
 <!--   <a href="https://discordapp.com/users/822812589624393749"><img src="https://img.icons8.com/bubbles/50/000000/discord.png" alt="Discord"/></a> -->
 </p>
 
